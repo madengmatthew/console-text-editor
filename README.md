@@ -2,8 +2,6 @@
 
 A command-driven, multiline text editor written in Python for **CSC1002 Assignment 3**. It runs in a terminal and uses only the Python standard library.
 
-中文简述：一个 Python 课程项目，通过简短命令完成多行文本编辑，练习字符串处理、正则表达式、命令解析和编辑器状态管理。
-
 ## Features
 
 - Navigate by character, word, line, or line number.
